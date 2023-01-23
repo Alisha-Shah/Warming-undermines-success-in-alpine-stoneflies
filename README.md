@@ -2,6 +2,8 @@
 
 Annotated code and data used for journal article "Warming undermines emergence success in a threatened alpine stonefly: a multi-trait perspective on vulnerability to climate change", accepted at Functional Ecology.
 
+## Summary
+
 ## Abstract
 
 1.	Vulnerability to warming is often assessed using short-term metrics such as the critical thermal maximum (CTMAX), which represents an organism’s ability to survive extreme heat. However, an understanding of the long-term effects of sub-lethal warming is an essential link to fitness in the wild, and these effects are not adequately captured by metrics like CTMAX. 
@@ -13,6 +15,8 @@ Annotated code and data used for journal article "Warming undermines emergence s
 ## Keywords:
 
 climate vulnerability, stonefly, glaciers, thermal tolerance, growth rate, development, flight performance, CTMAX 
+
+## Graphical overview
 
 
 
