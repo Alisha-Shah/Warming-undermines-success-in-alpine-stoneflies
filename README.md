@@ -4,9 +4,9 @@ This repository contains annotated code and data used for journal article "Warmi
 
 The data are organized as follows:
 
-analysisScripts - folder containing annotated code related to analysis and statistical testing
-dataFiles - folder containing summary data used in statistical testing
-rawKinematicData - folder containing raw kinematic data, digitized using DeepLabCut, used to assess adult locomotor performance
+* analysisScripts - folder containing annotated code related to analysis and statistical testing
+* dataFiles - folder containing summary data used in statistical testing
+* rawKinematicData - folder containing raw kinematic data, digitized using DeepLabCut, used to assess adult locomotor performance
 
 
 
