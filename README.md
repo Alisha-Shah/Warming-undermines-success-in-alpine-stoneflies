@@ -1,8 +1,10 @@
 # Warming undermines emergence success in a threatened alpine stonefly: a multi-trait perspective on vulnerability to climate change
 
-Annotated code and data used for journal article "Warming undermines emergence success in a threatened alpine stonefly: a multi-trait perspective on vulnerability to climate change", accepted at Functional Ecology.
+This repository contains annotated code and data used for journal article "Warming undermines emergence success in a threatened alpine stonefly: a multi-trait perspective on vulnerability to climate change", accepted at Functional Ecology.
 
-## Summary
+
+
+
 
 ## Abstract
 
@@ -16,10 +18,32 @@ Annotated code and data used for journal article "Warming undermines emergence s
 
 climate vulnerability, stonefly, glaciers, thermal tolerance, growth rate, development, flight performance, CTMAX 
 
-## Graphical overview
+
+## Summary
+
+Our aim was to address three questions:
+
+(1) What are the highest temperatures L. tumana nymphs can withstand over multi-week timescales? 
+(2) How do different traits vary in their responses to this prolonged warming? 
+And, (3) how does long-term exposure to warmer temperatures during aquatic development affect the performance of terrestrial adults? 
+
+
+Juvenile stoneflies were collected at five sites in Glacier National Park.
+
+
+<img src="https://user-images.githubusercontent.com/68708363/214191874-a96c7911-b0f4-4ac0-9ff2-23cddcee3e7c.png" width="60%">
 
 
 
+These animals were then assigned a treatment group and reared in captivity at one of five fixed temperatures (1, 4, 7, 13, 21 °C) or a variable temperature treatment (TMAX = 10 °C, TMIN = 4 °C, average = 7 °C). We then measured growth rate, emergence success, survival, and adult locomotor performance in L. tumana across 6 temperature treatments.
+
+
+
+<img src="https://user-images.githubusercontent.com/68708363/214193880-e32dc5c2-0eee-4ce6-b019-ec71ec0dc1a3.png" width="60%">
+
+
+
+To assess locomotor performance, we measured the sustained speed of adults as they skimmed across the surface of the water.
 
 https://user-images.githubusercontent.com/68708363/214184116-5b5d348f-8f7e-4a25-858b-fc400b95d562.mp4
 
