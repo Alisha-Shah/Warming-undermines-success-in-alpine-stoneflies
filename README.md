@@ -2,7 +2,11 @@
 
 This repository contains annotated code and data used for journal article "Warming undermines emergence success in a threatened alpine stonefly: a multi-trait perspective on vulnerability to climate change", accepted at Functional Ecology.
 
+The data are organized as follows:
 
+analysisScripts - folder containing annotated code related to analysis and statistical testing
+dataFiles - folder containing summary data used in statistical testing
+rawKinematicData - folder containing raw kinematic data, digitized using DeepLabCut, used to assess adult locomotor performance
 
 
 
